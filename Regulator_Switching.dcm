@@ -1452,6 +1452,12 @@ K Step-Down Voltage Regulator Adjustable
 F http://www.ti.com/lit/ds/symlink/lm2675.pdf
 $ENDCMP
 #
+$CMP LM2678
+D LM2678 SIMPLE SWITCHER High Efficiency 5A Step-Down Voltage Regulator TO-263-7
+K step-down, voltage regulator, 5A
+F https://www.ti.com/lit/ds/symlink/lm2678.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1606072092092&ref_url=https%253A%252F%252Fwww.mouser.com%252F
+$ENDCMP
+#
 $CMP LM27313XMF
 D 1A, 28Vout Boost Voltage Regulator, 1.6MHz Frequency, SOT-23-5
 K Miniature Step-Up Boost Voltage Regulator
