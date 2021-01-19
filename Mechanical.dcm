@@ -60,4 +60,9 @@ K mounting hole
 F ~
 $ENDCMP
 #
+$CMP Nut
+D Nut, ecrou
+K Nut, ecrou
+$ENDCMP
+#
 #End Doc Library
